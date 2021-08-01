@@ -35,7 +35,7 @@ nav ul li {
 
 nav ul li a {
 	display: block;
-	font-family: Teko;
+	font-family: cursive;
 	color: white;
 	font-size: 14px;
 	padding:  22px 14px;
@@ -64,7 +64,7 @@ nav ul li ul li a {
 }
 
 nav ul li ul li a:hover {
-	background-color: skyblue;
+	background-color: indigo;
 }
 
 nav ul li ul li ul li a {
@@ -72,5 +72,5 @@ nav ul li ul li ul li a {
 }
 
 nav ul li ul li ul li a:hover {
-	background-color: skyblue;
+	background-color: navy;
 }
